@@ -1,3 +1,5 @@
 # MovieSearchBackend
 
 ## MovieSearchAPI
+
+### API Endpoints
